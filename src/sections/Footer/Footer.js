@@ -103,13 +103,13 @@ const Footer = () => {
                 <div className="copyright-area">
                     <div className='copy-text'>
                         <p>&copy; Dentalist. All Right Reserved</p>
-                    </div>  
+                    </div>
                     <div className='copy-links'>
                         <ul>
                             <li><Link to='/'>Terms of Use</Link></li>
                             <li><Link to='/'>Privacy Policy</Link></li>
                         </ul>
-                    </div>                          
+                    </div>
                 </div>
             </div>
         </footer>

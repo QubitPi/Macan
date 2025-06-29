@@ -54,7 +54,7 @@ const Banner = () => {
                                             <p>Dr. Samantha Alice</p>
                                             <p><small>Consultant</small></p>
                                         </div>
-                                    </div>  
+                                    </div>
 
                                     {/* Vector Shapes */}
                                     <div className="shapes">

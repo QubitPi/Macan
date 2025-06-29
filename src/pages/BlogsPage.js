@@ -6,7 +6,7 @@ import BlogCard from '../components/BlogCard/BlogCard';
 import BlogData from '../sections/Blogs/BlogData';
 
 const BlogsPage = () => {
-    
+
     return (
         <>
             <Navbar />

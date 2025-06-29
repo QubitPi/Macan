@@ -4,7 +4,7 @@ import './TestimoniCard.scss';
 const TestimoniCard = ({testimonail}) => {
 
     const {img, name, description, ratings} = testimonail;
-   
+
     return (
         <div className='col-lg-4 single-testimoni'>
             <div className="testimonial-card">

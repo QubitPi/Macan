@@ -33,7 +33,7 @@ const Team = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-7">
-                        <SectionTitle 
+                        <SectionTitle
                             subTitle="Meet our Team"
                             title="Get to know the dentalist
                             dental Team"
@@ -47,7 +47,7 @@ const Team = () => {
 
                 <div className="row">
                     {
-                        teams.map (team => 
+                        teams.map (team =>
                             <div className="col-lg-3 col-sm-6">
                                 <div className="team-card">
                                     <div className="team-img">

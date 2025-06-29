@@ -5,7 +5,7 @@ import './Service.scss';
 
 const Service = ({serviceList}) => {
     const {title,description, icon} = serviceList;
- 
+
     return (
         <div className='col-lg-3 col-md-4 col-sm-6'>
            <div className="service-box">
