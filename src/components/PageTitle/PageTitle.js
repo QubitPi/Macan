@@ -8,7 +8,7 @@ const PageTitle = ({title,description}) => {
                 <h2>News & Articles</h2>
                 <p>Stays updated with our latest blog and news and get healthy tips & trick for oral health</p>
             </div>
-        </div> 
+        </div>
     );
 };
 

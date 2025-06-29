@@ -74,7 +74,7 @@ const Testimonial = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-6">
-                        <SectionTitle 
+                        <SectionTitle
                         subTitle="TESTIMONIAL"
                         title="What people have said about us"
                         />
@@ -89,7 +89,7 @@ const Testimonial = () => {
                         testimonails.map(testimonail => <TestimoniCard testimonail={testimonail} />)
                     }
                 </Slider>
-               
+
             </div>
         </section>
     );

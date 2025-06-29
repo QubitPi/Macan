@@ -43,15 +43,15 @@ const Navbar = () => {
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             {/* Navbar Link */}
                             <ul className="navbar-nav m-auto mb-2 mb-lg-0">
-                               { 
+                               {
                                 navbarItems.map (navSingle =>
                                     <li className="nav-item">
                                         <Link className="nav-link" to={navSingle.path}>{navSingle.name}</Link>
                                     </li>
-                                    ) 
+                                    )
                                 }
                             </ul>
-                            
+
                             {/* Navbar Button */}
                             <div className="theme-btn">
                                 <Link to="/contact">Book appointment</Link>

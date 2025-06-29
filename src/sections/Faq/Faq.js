@@ -21,7 +21,7 @@ const Faq = () => {
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    I see Coint being a long-term part of my  business structure. Not just for this business, but also our future endeavors. 
+                                    I see Coint being a long-term part of my  business structure. Not just for this business, but also our future endeavors.
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@ const Faq = () => {
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                I see Coint being a long-term part of my  business structure. Not just for this business, but also our future endeavors. 
+                                I see Coint being a long-term part of my  business structure. Not just for this business, but also our future endeavors.
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ const Faq = () => {
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                I see Coint being a long-term part of my  business structure. Not just for this business, but also our future endeavors. 
+                                I see Coint being a long-term part of my  business structure. Not just for this business, but also our future endeavors.
                                 </div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@ const Faq = () => {
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                I see Coint being a long-term part of my  business structure. Not just for this business, but also our future endeavors. 
+                                I see Coint being a long-term part of my  business structure. Not just for this business, but also our future endeavors.
                                 </div>
                             </div>
                         </div>

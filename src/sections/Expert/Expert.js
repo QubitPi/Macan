@@ -11,7 +11,7 @@ const Expert = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-6">
                         <div className="expert-text">
-                            <SectionTitle 
+                            <SectionTitle
                                 subTitle="EXPERTS IN DENTAL"
                                 title="Top-notch dentistry, from Seattle's top dentists."
                                 description="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts"
